@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.07.26
+Time:       17:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R8","2k","TopLayer","RESC1608X04L","68.3550mm","-15.5750mm","0","Resistor"
+"D6","0603 GREEN","TopLayer","LEDC1608X80N_V2","72.9800mm","-18.6000mm","0",""
+"C9","4,7uF","TopLayer","CAPC1608X08L","69.5550mm","5.0250mm","270","Ceramic capacitor"
+"C3","1uF","TopLayer","CAPC1608X08L","60.6550mm","-15.8044mm","90","Ceramic capacitor"
+"C7","10uF","TopLayer","CAPC1608X08L","28.3694mm","11.6751mm","270","Ceramic capacitor"
+"C8","10uF","TopLayer","CAPC1608X08L","1.0090mm","10.1750mm","270","Ceramic capacitor"
+"D7","SMAJ15CA","TopLayer","SMA_(DO-214AC)","39.6600mm","-12.0750mm","0","TVS bidirectional"
+"D8","SMAJ15CA","TopLayer","SMA_(DO-214AC)","17.3000mm","-12.0750mm","0","TVS bidirectional"
+"D9","SMAJ15CA","TopLayer","SMA_(DO-214AC)","31.6600mm","-12.0750mm","180","TVS bidirectional"
+"D10","SMAJ15CA","TopLayer","SMA_(DO-214AC)","9.3000mm","-12.0750mm","180","TVS bidirectional"
+"L1","FCD32-4R7M","TopLayer","INDUCTOR_3521_(3,5_x_3,0_x_2,1)","27.3694mm","7.8499mm","0","Inductor 3521"
+"L2","FCD32-4R7M","TopLayer","INDUCTOR_3521_(3,5_x_3,0_x_2,1)","0.0090mm","6.3500mm","0","Inductor 3521"
+"P1","USB Type-C Rcp 16 Pin","TopLayer","Type-C_16-pins_China_Regular","72.0050mm","-8.2750mm","90",""
+"R10","510k","TopLayer","RESC3216X06L","0.0000mm","0.0000mm","270","Resistor"
+"R12","510k","TopLayer","RESC3216X06L","0.0000mm","-4.9750mm","270","Resistor"
+"R13","100R","TopLayer","RESC3216X06L","32.6900mm","-15.8250mm","0","Resistor"
+"R14","100R","TopLayer","RESC3216X06L","38.6300mm","-15.8250mm","180","Resistor"
+"R15","100R","TopLayer","RESC3216X06L","10.3300mm","-15.8250mm","0","Resistor"
+"R16","100R","TopLayer","RESC3216X06L","16.2700mm","-15.8250mm","180","Resistor"
+"P2","HC-RJ45-058-1-6","TopLayer","85503-5001_(Molex)","35.6600mm","-24.9250mm","0",""
+"P3","HC-RJ45-058-1-6","TopLayer","85503-5001_(Molex)","13.3000mm","-24.9250mm","0",""
+"U2","TD301D232H","TopLayer","TDx01D232H(G)","40.1600mm","1.5500mm","270","Single-channel RS-232 isolated transceiver"
+"U3","TD301D232H","TopLayer","TDx01D232H(G)","13.3000mm","1.5500mm","270","Single-channel RS-232 isolated transceiver"
+"C11","1nF","TopLayer","CAPC3216X16L","2.6500mm","-2.4750mm","90","Ceramic capacitor"
+"R9","510k","TopLayer","RESC3216X06L","26.8600mm","0.0000mm","270","Resistor"
+"R11","510k","TopLayer","RESC3216X06L","26.8600mm","-4.9750mm","270","Resistor"
+"C10","1nF","TopLayer","CAPC3216X16L","29.5100mm","-2.4750mm","90","Ceramic capacitor"
+"D5","0603 GREEN","TopLayer","LEDC1608X80N_V2","23.2450mm","-33.9250mm","90",""
+"D4","0603 GREEN","TopLayer","LEDC1608X80N_V2","45.6050mm","-33.9250mm","90",""
+"D2","0603 YELLOW","TopLayer","LEDC1608X80N_V2","25.1950mm","-33.9250mm","90",""
+"D1","0603 YELLOW","TopLayer","LEDC1608X80N_V2","47.5550mm","-33.9250mm","90",""
+"U1","CP2105-F01-GM","TopLayer","QFN50P400X400X80_HS-25L","56.9050mm","-14.1044mm","90","SINGLE-CHIP USB TO DUAL UART BRIDGE"
+"U4","AP2114H-3.3TRG1","TopLayer","SOT230P700X180-4N_(JEDEC_TO-261AA)","64.6550mm","7.6000mm","90","800mA Low-Dropout Linear Regulator"
+"R7","5,1k","TopLayer","RESC1608X04L","72.9800mm","-1.0750mm","180","Resistor"
+"R6","1k","TopLayer","RESC1608X04L","51.4800mm","-18.0000mm","90","Resistor"
+"R5","1k","TopLayer","RESC1608X04L","56.2550mm","-6.5500mm","0","Resistor"
+"R3","5,1k","TopLayer","RESC1608X04L","60.6800mm","-13.1000mm","90","Resistor"
+"R4","5,1k","TopLayer","RESC1608X04L","72.9800mm","-15.5750mm","0","Resistor"
+"R2","330R","TopLayer","RESC1608X04L","52.9300mm","-18.0000mm","90","Resistor"
+"R1","330R","TopLayer","RESC1608X04L","56.2550mm","-8.0000mm","0","Resistor"
+"D3","SRV05-4.TCT","TopLayer","SOT95P280X145-6L_(JEDEC_MO-178AB)","65.4300mm","-10.6750mm","0","TVS Diode Arrays RAILCLAMP 4-LINE 5V 3K LFREE"
+"C12","4,7uF","TopLayer","CAPC1608X08L","59.6800mm","6.2500mm","90","Ceramic capacitor"
+"C6","10uF","TopLayer","CAPC1608X08L","-0.7910mm","10.1750mm","270","Ceramic capacitor"
+"C5","10uF","TopLayer","CAPC1608X08L","26.5694mm","11.6751mm","270","Ceramic capacitor"
+"C4","4,7uF","TopLayer","CAPC1608X08L","55.6300mm","-10.5294mm","0","Ceramic capacitor"
+"C2","100nF","TopLayer","CAPC1608X08L","59.2550mm","-17.8794mm","0","Ceramic capacitor"
+"C1","1uF","TopLayer","CAPC1608X08L","59.2550mm","-19.2544mm","180","Ceramic capacitor"

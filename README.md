@@ -130,4 +130,5 @@ Connect this cable to the **CONSOLE** port of the master battery (do not use the
 ## That's all for now. Thanks for reading!
 
 ![Results](Media/10_results.jpg)
-
+![Results](Media/11_results.jpg)
+![Results](Media/12_results.jpg)
